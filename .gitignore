@@ -3,6 +3,8 @@
 
 # Production
 /build
+package-lock.json
+package.json
 
 # Generated files
 .docusaurus

@@ -1,8 +1,18 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website contains the (raw) data of the Blueprint protocol in an uncluttered overview. You can use it to try the Blueprint protocol easily, regardless of where you buy your ingredients.
 
-### Installation
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
+
+
+## Ubuntu Installation
+```sh
+npm install --save gh-pages
+clear && npm start
+```
+Then you can visit this website locally at http://localhost:3000/open-print
+
+## Windows Installation
 
 ```
 $ yarn
@@ -40,5 +50,3 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-
