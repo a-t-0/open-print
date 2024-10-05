@@ -2,6 +2,8 @@
 
 This website contains the (raw) data of the Blueprint protocol in an uncluttered overview. You can use it to try the Blueprint protocol easily, regardless of where you buy your ingredients.
 
+![Website Preview](images/website_preview.png)
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
 
 
